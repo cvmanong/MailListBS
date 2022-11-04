@@ -1,8 +1,8 @@
-package client.controller;
+package controller;
 
-import client.entiry.Mail;
+import entiry.Mail;
 import service.MailService;
-import client.view.MailAdmin;
+import view.MailAdmin;
 
 import javax.swing.*;
 import javax.swing.table.DefaultTableModel;

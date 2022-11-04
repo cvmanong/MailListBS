@@ -1,4 +1,4 @@
-package client.entiry;
+package entiry;
 
 public class Mail {
 

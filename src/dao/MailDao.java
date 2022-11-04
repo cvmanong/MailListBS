@@ -1,6 +1,6 @@
 package dao;
 
-import client.entiry.Mail;
+import entiry.Mail;
 
 import java.sql.*;
 import java.util.ArrayList;

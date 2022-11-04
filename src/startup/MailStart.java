@@ -1,7 +1,7 @@
-package client.startup;
+package startup;
 
-import client.controller.MailController;
-import client.view.Welcome;
+import controller.MailController;
+import view.Welcome;
 
 public class MailStart extends Welcome {
     @Override

@@ -1,7 +1,7 @@
 package service;
 
 import dao.MailDao;
-import client.entiry.Mail;
+import entiry.Mail;
 
 import java.util.ArrayList;
 
